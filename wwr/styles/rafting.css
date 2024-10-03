@@ -28,7 +28,7 @@ header img {
     height: auto;
 }
 header {
-    background: linear-gradient(rgba(214, 149, 251, 0.808), rgba(0, 0, 0, 0));
+    background: linear-gradient(rgba(3, 114, 63, 0.808), rgba(0, 0, 0, 0));
 }
 header nav{
     color: white;
@@ -73,7 +73,7 @@ header nav a {
 }
 
 footer {
-    background-color: rgba(251, 149, 198, 0.71);
+    background-color: rgba(3, 114, 63, 0.808), 0.71);
     position: absolute;
     width: 1700px;
     right: 0px;
