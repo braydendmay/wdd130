@@ -4,7 +4,7 @@ header {
 }
 .hero h1 {
     width: 1457;
-    background-color: rgba(140, 140, 140, 0.808) !important;
+    background-color: #56876d !important;
     color: goldenrod;
     font-size: 40px;
     position: absolute;
@@ -28,7 +28,7 @@ header img {
     height: auto;
 }
 header {
-    background: linear-gradient(rgba(3, 114, 63, 0.808), rgba(0, 0, 0, 0));
+    background: linear-gradient(#04724d, rgba(0, 0, 0, 0));
 }
 header nav{
     color: white;
@@ -51,7 +51,7 @@ header nav a {
     height: auto;
 }
 .hero article{
-    background: rgba(140, 140, 140, 0.808) !important;
+    background: #8db38b !important;
     color: #2222a2 !important;
     position: absolute; 
     right: 200px;
@@ -73,7 +73,7 @@ header nav a {
 }
 
 footer {
-    background-color: rgba(3, 114, 63, 0.808);
+    background-color: #d2ab99;
     position: absolute;
     width: 1700px;
     right: 0px;
